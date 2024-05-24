@@ -1,0 +1,12 @@
+.note {
+    position: relative;
+  }
+  
+  .date {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    font-size: 15px; /* Adjust font size as needed */
+    color: #777; /* Adjust color as needed */
+  }
+  

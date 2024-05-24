@@ -1,0 +1,30 @@
+.landingpage{
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
+}
+.bgcolor{
+    background-color: rgba(0, 0, 0, 0.703);
+}
+/* Landingpage.css */
+
+.quote {
+    font-size: 4.5rem; /* Increase the font size */
+    color: #333; /* Set the color of the heading */
+    margin-top: 3rem; /* Add more top margin for spacing */
+   line-height: 5rem;
+    text-align: center; /* Center-align the text */
+    font-weight: bold; /* Make the text bold */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Add a subtle text shadow */
+    /* You can add more styling properties as needed */
+  }
+  
+/* .imgnotes{
+    border-radius: 60%;
+} */
+.butnstart {
+    position: fixed; /* Position the button relative to the viewport */
+    bottom: 100px; /* Distance from the bottom of the viewport */
+    left: 10%; /* Center the button horizontally */
+    transform: translateX(-10%); /* Center the button horizontally */
+  }
+  

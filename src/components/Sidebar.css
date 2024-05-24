@@ -1,0 +1,55 @@
+/* .sidebar{
+  
+  position:fixed;
+  height: 100vh;
+  min-width: 250px;
+  background-color: rgb(28, 29, 29);
+  color:white;
+  
+}
+.head{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+
+}
+.heading{
+    position: relative;
+    left: 40px;
+    top:20px;
+    font-size: 2rem;
+}
+.sidehead{
+  display: inline-block;
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin: 20px 60px;
+  
+
+}
+ */
+
+.head {
+  margin-top: 30px;
+}
+
+.heading {
+  margin-left: 20px; /* Adjusting the margin */
+  font-size: 2.5rem; /* Slightly larger font size */
+}
+
+.sidehead {
+   /* Adding padding for better clickability */
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin-top: 10px;
+  color: #ccc; /* Lighter text color */
+  transition: all 0.3s ease; /* Adding transition for smoother hover effect */
+
+  /* Adding hover effect */
+}
+
+.sidebar1{
+  background-color: rgba(0, 0, 0, 0.779);
+  color:white;
+}
